@@ -1,0 +1,21 @@
+h1#demo {
+    color: green;
+    background: lightblue;
+    display: inline-block;
+    position: absolute;
+    margin-left:120px;
+    font-size: 6rem;
+    border: 3px dashed #d52828;
+    border-radius: 5px;
+}
+.work{
+   margin-left:120px;
+    font-size:1.5rem;
+    position: relative;
+    top: 5rem;
+    color:maroon;
+}
+.work:hover{
+    color: magenta;
+    font-style: italic;
+}
